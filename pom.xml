@@ -20,25 +20,25 @@
     </properties>
 
     <name>RFreedomMod</name>
-    <description>Server modification for the TotalFreedom server</description>
-    <url>https://github.com/TotalFreedom/TotalFreedomMod</url>
+    <description>Server modification for the RFreedom server</description>
+    <url>https://github.com/RFreedomRevamp/RFM-1.11.2</url>
 
     <licenses>
         <license>
             <name>TotalFreedom General License</name>
-            <url>https://github.com/TotalFreedom/License/blob/master/LICENSE.md</url>
+            <url>https://github.com/RFreedom/License/blob/master/LICENSE.md</url>
         </license>
     </licenses>
 
     <organization>
-        <name>Total Freedom</name>
-        <url>https://totalfreedom.me</url>
+        <name>RFreedom</name>
+        <url>https://rfreedom.boards.net</url>
     </organization>
 
     <scm>
-        <connection>scm:git:git@github.com:TotalFreedom/TotalFreedomMod.git</connection>
-        <developerConnection>scm:git:git@github.com:TotalFreedom/TotalFreedomMod.git</developerConnection>
-        <url>git@github.com:TotalFreedom/TotalFreedomMod.git</url>
+        <connection>scm:git:git@github.com:RFreedomRevamp/RFreedomMod.git</connection>
+        <developerConnection>scm:git:git@github.com:RFreedomRevamp/RFreedomMod.git</developerConnection>
+        <url>git@github.com:RFreedomRevamp/RFreedomMod.git</url>
     </scm>
 
     <repositories>
